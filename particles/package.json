@@ -1,0 +1,11 @@
+{
+  "name": "TCWS",
+  "version": "0.0.1",
+  "description": "Max's spare time side project. They came with steel.",
+  "author": "Maxfield Chen <maxfieldchen@gmail.com>",
+  "dependencies": {
+    "browserify": "^6.3.2",
+    "express": "^4.10.2",
+    "socket.io": "^1.2.0"
+  }
+}
